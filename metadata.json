@@ -1,0 +1,6 @@
+{
+  "name": "SuperLlantax Miranda",
+  "description": "Catálogo interactivo de llantas y rines deportivos de alta calidad con filtros de búsqueda avanzada y galería de imágenes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
